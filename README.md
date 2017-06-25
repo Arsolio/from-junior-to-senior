@@ -88,7 +88,7 @@ will) include something related to SEO, advertising, marketing etc.
 ## Calculus
 
 - :pencil: **Articles**
-  - [x] [An Intuitive Introduction to Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits) by Better Explained
+  - [ ] [An Intuitive Introduction to Limits](https://betterexplained.com/articles/an-intuitive-introduction-to-limits) by Better Explained
 - :book: **Books**
   - [ ] :ru: [Курс дифференциального и интегрального исчисления в 3 томах. Том 1](http://www.ozon.ru/context/detail/id/4577306/) by Grigorii Fichtenholz
   - [ ] :ru: [Курс дифференциального и интегрального исчисления в 3 томах. Том 2](http://www.ozon.ru/context/detail/id/4577307/) by Grigorii Fichtenholz
@@ -96,12 +96,12 @@ will) include something related to SEO, advertising, marketing etc.
   - [ ] :ru: [Краткий курс Математического анализа](http://nuclphys.sinp.msu.ru/mathan/) by Lev Kudryavtsev
 - :mortar_board: **Courses**
   - [Khan Academy](https://www.khanacademy.org/math/calculus-home)
-    - [x] [Limits and Continuity](https://www.khanacademy.org/math/calculus-home/limits-and-continuity-calc)
-    - [x] [Taking Derivatives](https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc)
-    - [x] [Derivative Applications](https://www.khanacademy.org/math/calculus-home/derivative-applications-calc)
-    - [x] [Integration](https://www.khanacademy.org/math/calculus-home/integration-calc)
-    - [x] [Integration Techniques](https://www.khanacademy.org/math/calculus-home/integration-techniques-calc)
-    - [x] [Integration Applications](https://www.khanacademy.org/math/calculus-home/integration-applications-calc)
+    - [ ] [Limits and Continuity](https://www.khanacademy.org/math/calculus-home/limits-and-continuity-calc)
+    - [ ] [Taking Derivatives](https://www.khanacademy.org/math/calculus-home/taking-derivatives-calc)
+    - [ ] [Derivative Applications](https://www.khanacademy.org/math/calculus-home/derivative-applications-calc)
+    - [ ] [Integration](https://www.khanacademy.org/math/calculus-home/integration-calc)
+    - [ ] [Integration Techniques](https://www.khanacademy.org/math/calculus-home/integration-techniques-calc)
+    - [ ] [Integration Applications](https://www.khanacademy.org/math/calculus-home/integration-applications-calc)
     
 ## Functional Analysis
 
@@ -114,7 +114,7 @@ will) include something related to SEO, advertising, marketing etc.
 ### Analytic Geometry
 
 - :mortar_board: **Courses**
-  - [x] [Analytic Geometry](https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic) by Khan Academy
+  - [ ] [Analytic Geometry](https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic) by Khan Academy
 
 ## Linear Algebra
 
@@ -193,7 +193,7 @@ will) include something related to SEO, advertising, marketing etc.
   - [armasm Reference Guide](http://infocenter.arm.com/help/topic/com.arm.doc.dui0802b/ARMCT_armasm_reference_guide_v6_01_DUI0802B_en.pdf)
   - [Intel and AT&T Syntax Comparison](http://www.imada.sdu.dk/Courses/DM18/Litteratur/IntelnATT.htm)
 - :book: **Books**
-  - [x] :ru: [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/%D0%90%D1%81%D1%81%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D1%80_%D0%B2_Linux_%D0%B4%D0%BB%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2_C) by Wikibooks
+  - [ ] :ru: [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/%D0%90%D1%81%D1%81%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D1%80_%D0%B2_Linux_%D0%B4%D0%BB%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2_C) by Wikibooks
 
 ### C/C++
 
@@ -237,9 +237,9 @@ will) include something related to SEO, advertising, marketing etc.
 ### Functional Programming
 
 - :pencil: **Articles**
-  - [x] [Transducers in Clojure](https://clojure.org/reference/transducers)
+  - [ ] [Transducers in Clojure](https://clojure.org/reference/transducers)
 - :movie_camera: **Videos**
-  - [x] [Immutable data structures for functional JS](https://youtu.be/Wo0qiGPSV-s) by Anjana Vakil
+  - [ ] [Immutable data structures for functional JS](https://youtu.be/Wo0qiGPSV-s) by Anjana Vakil
   
 ### Actor Model
 
@@ -317,9 +317,9 @@ will) include something related to SEO, advertising, marketing etc.
 
 - :mortar_board: **Courses**
   - [Codecademy](https://www.codecademy.com)
-    - [x] [Learn AngularJS](https://www.codecademy.com/courses/learn-angularjs)
-    - [x] [Learn ReactJS: Part I](https://www.codecademy.com/courses/react-101)
-    - [x] [Learn ReactJS: Part II](https://www.codecademy.com/courses/react-102)
+    - [ ] [Learn AngularJS](https://www.codecademy.com/courses/learn-angularjs)
+    - [ ] [Learn ReactJS: Part I](https://www.codecademy.com/courses/react-101)
+    - [ ] [Learn ReactJS: Part II](https://www.codecademy.com/courses/react-102)
 
 ## Databases
 
